@@ -1,0 +1,45 @@
+/* Created by: Ben Thomson
+ * Created on: 03/20/2023
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit2-04-PHP-AreaTriangle
+*/
+
+body {
+  background-color: #ffcdb2;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+  background-color: #cb997e;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 5%;
+  background-color: #a5a58d;
+  text-align: center;
+  padding: 20px;
+}
+
+h3 {
+  width: 80%;
+  margin-left: 10%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #eddcd2;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
